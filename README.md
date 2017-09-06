@@ -1,6 +1,6 @@
 # AntiSpamArabic
 # [AntiSpam](https://t.me/djgbot)
-# [By ~ @s_s_a15](https://t.me/s_s_a_15)
+# [By ~ @s_s_a_15](https://t.me/s_s_a_15)
  
  ## Feature
 ### lock and open
